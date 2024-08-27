@@ -43,11 +43,11 @@ This is a FastAPI application that demonstrates GitHub OAuth authentication.
 
 2. Open your browser and navigate to `http://127.0.0.1:8000`.
 
-## Endpoints
+## Endpoints 📌
 
-- `GET /` - Home endpoint
-- `GET /github-login` - Redirects to GitHub OAuth login
-- `GET /github-code` - Handles GitHub OAuth callback
+- `GET /` - Home endpoint 🏠
+- `GET /github-login` - Redirects to GitHub OAuth login 🔗
+- `GET /github-code` - Handles GitHub OAuth callback 🔄
 
 ## Example
 
