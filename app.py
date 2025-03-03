@@ -8,7 +8,7 @@ from fastapi.responses import JSONResponse, RedirectResponse
 from config import GITHUB_CLIENT_ID, GITHUB_CLIENT_SECRET
 
 app = FastAPI()
-
+2=i
 @app.get("/")
 async def home():
     """Home endpoint"""
